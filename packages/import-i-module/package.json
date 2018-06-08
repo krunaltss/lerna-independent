@@ -1,0 +1,15 @@
+{
+  "name": "import-i-module",
+  "version": "1.0.1-1.0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "module-i-two": "^1.0.1-0"
+  }
+}
